@@ -42,6 +42,9 @@
     <ClInclude Include="GraphicsClass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="AlignedAllocationPolicy.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Tutorial2.cpp">
